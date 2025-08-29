@@ -163,6 +163,4 @@ header("Expires: 0");
 8. Set up barcode scanner preferences  
 9. Secure the site with HTTPS and input validation  
 
----
 
-Let me know if you'd like a license section, contribution guidelines, or GitHub badges added next.
